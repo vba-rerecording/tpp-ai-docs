@@ -157,8 +157,8 @@ $ unzip <AI build + dependencies zip>
 ```
 
 This will have created some new files in the directory. What I want you to look
-for is the VBA-RR-V243/lua directory. Go into this directory and *remove the socket
-directory and the socket.lua file*. Now execute the `pwd` command. Remember
+for is the VBA-RR-V243/lua directory. Go into this directory and **remove the socket
+directory and the socket.lua file**. Now execute the `pwd` command. Remember
 that output. I will refer to it as the `<lua directory>`.
 
 Now start a new terminal. We will use this terminal to run the AI in.
