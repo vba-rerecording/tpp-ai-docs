@@ -173,7 +173,7 @@ Now go back to the other terminal and run vba-rr like this (The ips file is
 also somewhere in the `<AI Build directory` and you should know where the ROM is):
 
 ```
-$ vba-rr -l<lua directory>/pokecrystal_ai.lua -i<ips file> <ROM file>
+$ vba-rr -l <lua directory>/pokecrystal_ai.lua -i <ips file> <ROM file>
 ```
 
 You MUST provide the full `<lua directory>`.
