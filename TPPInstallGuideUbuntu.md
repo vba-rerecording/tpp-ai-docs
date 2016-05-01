@@ -136,7 +136,7 @@ Download the Standalone, non AI version from [here](http://twitchplayspokemon.gi
 
 Place this in a location that is convenient for you. I reccommend placing it in an isolated
 directory together with the ROM file (remember the md5 hash must be 9f2922b235a5eeb78d65594e82ef5dde)
-You can verify this using the `md5sum &lt;ROM file&gt;` command). Now run vba-rr like this:
+You can verify this using the `md5sum <ROM file>` command). Now run vba-rr like this:
 
 ```
 $ vba-rr -i <ips file> <ROM File>
