@@ -1,4 +1,4 @@
-# Ubuntu TPP Anniversary Crystal AI guide for Ubuntu
+# TPP Anniversary Crystal AI guide for Ubuntu
 
 This guide is a step-by-step guide to installing vba-rerecording and running the
 anniversary crystal AI on Ubuntu linux
