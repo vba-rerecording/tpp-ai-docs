@@ -37,8 +37,7 @@ $ sudo apt-get update
 Next do this
 
 ```
-$ sudo apt-get install build-essentials cmake liblua5.1-dev libsdl1.2-dev
-flex bison libpng12-dev zlib1g-dev
+$ sudo apt-get install build-essential cmake liblua5.1-dev libsdl1.2-dev flex bison libpng12-dev zlib1g-dev
 ```
 
 Now, if you intend to run the AI, also run the following:
