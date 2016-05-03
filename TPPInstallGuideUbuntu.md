@@ -6,8 +6,8 @@ and other debian derivatives. This guide assumes that you know what a terminal
 is and how you can use it to navigate to specific directories. However in most
 cases you can simply copy paste the commands here into the terminal and it will
 work. If you have no idea what I am talking about, please read this helpful guide
-created by much more qualified individuals up to file and directory commands:
-https://help.ubuntu.com/community/UsingTheTerminal
+created by much more qualified individuals up to and including file and directory
+commands: [Using the terminal](https://help.ubuntu.com/community/UsingTheTerminal)
 
 This guide was created on linux 14.04 LTS. The packages mentioned here however
 are also present on later versions and on most if not all other debian derivatives.
